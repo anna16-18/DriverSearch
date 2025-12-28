@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36623.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DriverSearch", "DriverSearch\DriverSearch.csproj", "{CDD4AF87-69C6-49C5-8914-6846EC1496FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DriverSearch.Tests", "DriverSearch.Tests\DriverSearch.Tests.csproj", "{6218D239-29A5-4986-AB29-D5C0F3A3D44C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DriverSearch.Benchmark", "DriverSearch.Benchmark\DriverSearch.Benchmark.csproj", "{7AC8B40F-85F8-4B69-AFB8-773AAF507C67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDD4AF87-69C6-49C5-8914-6846EC1496FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDD4AF87-69C6-49C5-8914-6846EC1496FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDD4AF87-69C6-49C5-8914-6846EC1496FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDD4AF87-69C6-49C5-8914-6846EC1496FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6218D239-29A5-4986-AB29-D5C0F3A3D44C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6218D239-29A5-4986-AB29-D5C0F3A3D44C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6218D239-29A5-4986-AB29-D5C0F3A3D44C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6218D239-29A5-4986-AB29-D5C0F3A3D44C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AC8B40F-85F8-4B69-AFB8-773AAF507C67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AC8B40F-85F8-4B69-AFB8-773AAF507C67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AC8B40F-85F8-4B69-AFB8-773AAF507C67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AC8B40F-85F8-4B69-AFB8-773AAF507C67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8DAC6174-C359-406C-9D8D-A05E974CD8CA}
+	EndGlobalSection
+EndGlobal
